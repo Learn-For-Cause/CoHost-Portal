@@ -64,6 +64,15 @@ $  cd cohost
 $  pip install -r requirements.txt
 ```
 
+**5. Add the hosts**
+
+- Got to settings.py file 
+- Then, On allowed hosts, Add [‘*’]. 
+```python
+ALLOWED_HOSTS = ['*']
+```
+*No need to change on Mac.*
+
 **6. Now Run Server**
 
 Command for PC:
