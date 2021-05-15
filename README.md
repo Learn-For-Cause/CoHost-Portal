@@ -56,7 +56,7 @@ $  git clone git@github.com:Learn-For-Cause/cohost.git
 
 Then, Enter the project
 ```
-$  cd cohost
+$  cd CoHost-Portal
 ```
 
 **4. Install Requirements from 'requirements.txt'**
