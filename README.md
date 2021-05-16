@@ -51,7 +51,7 @@ $  source venv/bin/activate
 
 **3. Clone this project**
 ```
-$  git clone git@github.com:Learn-For-Cause/cohost.git
+$  git clone git@github.com:Learn-For-Cause/CoHost-Portal.git
 ```
 
 Then, Enter the project
