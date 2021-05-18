@@ -41,7 +41,7 @@ Activate Virtual Environment
 
 For Windows
 ```
-$  source venv/scripts/activate
+$  venv/scripts/activate
 ```
 
 For Mac
@@ -51,7 +51,7 @@ $  source venv/bin/activate
 
 **3. Clone this project**
 ```
-$  git clone git@github.com:Learn-For-Cause/CoHost-Portal.git
+$  git clone https://github.com/Learn-For-Cause/CoHost-Portal.git
 ```
 
 Then, Enter the project
