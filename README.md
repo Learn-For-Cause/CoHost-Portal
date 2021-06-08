@@ -13,7 +13,7 @@
 3. Install Pip (Package Manager)
 [ https://pip.pypa.io/en/stable/installing/ ]
 
-*Alternative to Pip is Homebrew*
+ Note:*Alternative to Pip is Homebrew*
 
 ### Installation
 
