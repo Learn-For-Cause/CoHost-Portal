@@ -132,7 +132,7 @@ $ python3 manage.py runserver
 
 
 ## Authors
-- **Ashutosh Das** - _initial work_ - [Ashutosh Das](https://github.com/Ash-exp)
+- **Asutosh Das** - _initial work_ - [Asutosh Das](https://github.com/Ash-exp)
 - **Abhishek Choudhary** - _initial work_ - [Abhishek Choudhary](https://github.com/Abhishek-K-Choudhary)
 Enjoy! Give us [feedback](https://github.com/Learn-For-Cause/CoHost-Portal/issues) if you have suggestions on how to improve this information.
 
