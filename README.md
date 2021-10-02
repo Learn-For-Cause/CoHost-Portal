@@ -23,7 +23,7 @@ They have only access to read the information related to him only.
 
 ## How to contribute?
 
-Please read [our contributing guidelines](https://github.com/Learn-For-Cause/CoHost-Portal/blob/main/CONTRIBUTING.md) for details of how you can get involved, [our contributors](https://github.com/Learn-For-Cause/CoHost-Portal/blob/main/CONTRIBUTING.md)for details of the contributors, and [Code of Conduct](CODE_OF_CONDUCT.md) for information about how to participate.
+Please read [our contributing guidelines](https://github.com/Learn-For-Cause/CoHost-Portal/blob/main/CONTRIBUTING.md) for details of how you can get involved, [our contributors](https://github.com/Learn-For-Cause/CoHost-Portal/blob/main/CONTRIBUTING.md) for details of the contributors, and [Code of Conduct](CODE_OF_CONDUCT.md) for information about how to participate.
 
 
 ##  Getting Started 👨‍💻
